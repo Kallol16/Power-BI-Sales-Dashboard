@@ -20,11 +20,23 @@ It provides insights into revenue, profit, categories, customer performance, and
 - Category and sub-category analysis
 - Interactive filters (Quarter, State)
 
-## 📊 Features
-- KPI cards
-- Bar, column, donut charts
-- Slicers for interactivity
+## 📊 Dashboard Features
+- KPI cards for high-level performance tracking
+- State-wise sales analysis
+- Customer-wise revenue contribution
+- Category & sub-category performance
+- Monthly profit trend analysis
+- Interactive slicers (Quarter, State)
+- Insight text embedded inside the dashboard
+- Custom tooltips (Payment Mode by State)
 - Clean and business-friendly layout
+
+## 🧠 Business Insights
+- COD dominates payment modes, indicating higher customer reliance on pay-at-delivery options
+- Printers are the top-selling sub-category, reflecting strong demand
+- Clothing delivers the highest profit among all categories
+- Maharashtra leads in overall revenue contribution
+- Profit peaks in November, followed by a decline in December
 
 ## 🗂 Dataset
 - Sales dataset
@@ -32,13 +44,13 @@ It provides insights into revenue, profit, categories, customer performance, and
 - Cleaned and transformed using Power Query
 
 ## 🧠 What I Learned
-- Data cleaning and modeling
-- Creating DAX measures
-- Building interactive dashboards
-- Business storytelling using visuals
+- Data cleaning and transformation using Power Query
+- Writing optimized DAX measures
+- Designing interactive and user-friendly dashboards
+- Applying business storytelling through insights and tooltips
 
 ## 📷 Dashboard Preview
-  uploaded 4 dashboad preview as .png file
+  uploaded 5 dashboad preview as .png file
 
 ## 📁 File
 - `Sales Dashboard.pbix`
